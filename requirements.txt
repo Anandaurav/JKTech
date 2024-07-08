@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+asyncpg
+pydantic
+scikit-learn
+psycopg2-binary
+transformers
+torch
